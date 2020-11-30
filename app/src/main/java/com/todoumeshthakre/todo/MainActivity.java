@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.todoumeshthakre.todo;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentTransaction;
@@ -8,8 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
-import com.example.Fragment.AddTodoFragment;
-import com.example.Fragment.CompletedTodoFrgment;
+import com.todoumeshthakre.Fragment.AddTodoFragment;
+import com.todoumeshthakre.Fragment.CompletedTodoFrgment;
 
 public class MainActivity extends AppCompatActivity {
     Button addTodo,completeTodo,dueTodo;

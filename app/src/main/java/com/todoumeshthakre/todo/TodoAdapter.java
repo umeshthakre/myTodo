@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.todoumeshthakre.todo;
 
 import android.view.LayoutInflater;
 import android.view.View;

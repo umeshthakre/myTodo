@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.todoumeshthakre.todo;
 
 public class Todo {
     String title,label,description;

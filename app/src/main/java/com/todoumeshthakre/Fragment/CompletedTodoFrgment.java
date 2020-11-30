@@ -1,4 +1,4 @@
-package com.example.Fragment;
+package com.todoumeshthakre.Fragment;
 
 import android.os.Bundle;
 
@@ -11,9 +11,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.example.todo.R;
-import com.example.todo.Todo;
-import com.example.todo.TodoAdapter;
+import com.todoumeshthakre.todo.R;
+import com.todoumeshthakre.todo.Todo;
+import com.todoumeshthakre.todo.TodoAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.database.FirebaseDatabase;
 
